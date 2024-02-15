@@ -1,0 +1,40 @@
+body{
+    background-color: #e9ecef !important;
+}
+
+.account:hover{
+    color: #ffd000 !important;
+}
+
+.drop:hover{
+    color: #ffd000 !important;
+}
+
+.li:hover{
+    color: #ffd000 !important;
+    background-color: #343a40 !important;
+}
+
+.lo:hover{
+    color: #ffd000 !important;
+}
+
+.d:hover{
+    background-color: #ffd000 !important;
+}
+
+.forgot:hover{
+    color:#ffd000 !important;
+}
+
+.p:hover{
+    background-color: #ffd000 !important;
+    color:black !important;
+}
+
+.logout:hover{
+    color:white !important;
+    background-color: red !important;
+}
+
+
